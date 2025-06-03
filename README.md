@@ -1,5 +1,8 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
+*`Desenvolvedora Júnior`*
+
+Me chamo Emily Novaes Freire, tenho 20 anos e sou natural da Bahia. Concluí o ensino médio no IFBA-Instituto Federal de Educação, Ciência e Tecnologia da Bahia, com o curso técnico em informática. Atualmente estou cursando Sistemas de informação também no IFBA. Sou apaixonada por tudo que envolve tecnologia!
  <div>
    <a href="https://github.com/Emily-Novaes">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emily-Novaes&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
