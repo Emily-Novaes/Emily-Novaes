@@ -4,11 +4,12 @@
 - 📚 Cursando Sistemas de Informação no IFBA
 - 📍 Bahia
  
- <div>
-   <a href="https://github.com/Emily-Novaes">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emily-Novaes&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emily-Novaes&layout=compact&langs_count=6&theme=cobalt"/>
-</div>
+<a href="https://github.com/Emily-Novaes">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Emily-Novaes&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+</a>
+<a href="https://github.com/Emily-Novaes">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emily-Novaes&layout=compact&langs_count=6&theme=cobalt&cache_seconds=1800"/>
+</a>
     
 <div style="display: inline_block"><br>
  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
