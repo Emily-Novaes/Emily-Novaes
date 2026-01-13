@@ -1,7 +1,7 @@
 ## Olá, eu sou a Emily! Bem-vindo(a) ao meu perfil...
 
 - 💻 Técnica em Informática
-- 📚 Cursando Sistemas de Informação no IFBA
+- 📚 Cursando Sistemas de Informação
 - 📍 Bahia
  
 <a href="https://github.com/Emily-Novaes">
